@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScaNet</string>
+    <string name="tools">Tools</string>
+    <string name="timeout">**Timeout**</string>
+    <string name="wol_desc">Turn on or awake a device by a network message </string>
+    <string name="vul">Analyze your network configuration to assess potential vulnerabilities. Find open ports via UPnP and NAT-PMP that may lead to external access and close them.</string>
+    <string name="sit_tight">Sit tight! This may take a while. The Duration of the test depends on your network size and number of connected devices.</string>
+    <string name="FindOpenPorts_desc">Probe a specific target host to detect open TCP ports to determine available services and assess vulnerabilities. </string>
+    <string name="traceroute_desc">Display the route and measure the transit delays of packets sent from your device towards a target host across an IP network.</string>
+    <string name="ping_desc">Measure the round trip time for messages sent from your device towards a target host across an IP network.</string>
+    <string name="signup_data">When you create a ScaNet account, you get access to security features, inculding
+        <br>- Alters of intruders in your network</br>
+        <br>- Notify you about internet useage in your area</br>
+        <br>- Many more.</br></string>
+</resources>

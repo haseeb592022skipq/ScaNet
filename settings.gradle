@@ -1,0 +1,20 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+                //TODO: 1. Update the "project level" gradle file.
+                maven {
+                    url 'https://maven.speedcheckerapi.com/artifactory/libs-demo'
+                    credentials {
+                        username = "demo"
+                        password = "AP85qiz6wYEsCttWU2ZckEWSwJKuA6mSYcizEY"
+                    }
+                }
+
+
+    }
+}
+rootProject.name = "Scanet"
+include ':app:libs'

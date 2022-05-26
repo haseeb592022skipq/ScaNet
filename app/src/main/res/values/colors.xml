@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF5EAFF7</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#5EAFF7</color>
+    <color name="wlanscanner_bg">#00BCD4</color>
+
+    <color name="wlanscanner_error_text">#EB4747</color>
+
+    <color name="wlanscanner_dialog_bg">#444444</color>
+    <color name="wlanscanner_dialog_header">#dddddd</color>
+    <color name="wlanscanner_dialog_text">#cccccc</color>
+
+    <color name="wlanscanner_button_text">#bbbbbb</color>
+    <color name="wlanscanner_button_bg">#666666</color>
+    <color name="wlanscanner_button_selected">#fd22a5cc</color>
+
+    <color name="wlanscanner_spinner_popup_bg">#444444</color>
+
+    <color name="wlanscanner_list_divider">#333333</color>
+    <color name="wlanscanner_list_ssid">#aaaaaa</color>
+    <color name="wlanscanner_list_item_bg">#2C2C2C</color>
+    <color name="wlanscanner_list_item_color1">#666666</color>
+    <color name="wlanscanner_list_item_color2">#888888</color>
+
+    <color name="wlanscanner_diagram_bg">#222222</color>
+    <color name="wlanscanner_diagram_labels">#666666</color>
+    <color name="wlanscanner_diagram_border">#666666</color>
+    <color name="wlanscanner_diagram_lines">#333333</color>
+
+    <color name="wlanscanner_list_item_level_red">#BA3514</color>
+    <color name="wlanscanner_list_item_level_yellow">#B0B014</color>
+    <color name="wlanscanner_list_item_level_green">#21A721</color>
+</resources>

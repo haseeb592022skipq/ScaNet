@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BESE 24/FYP/FYP ScaNet/app/src/main/res/drawable-v24/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/BESE 24/FYP/FYP ScaNet/app/src/main/res/font/palanquin.xml" value="0.1" />
+        <entry key="..\:/BESE 24/FYP/FYP ScaNet/app/src/main/res/layout/activity_account.xml" value="0.12708333333333333" />
+        <entry key="..\:/BESE 24/FYP/FYP ScaNet/app/src/main/res/layout/activity_device_list.xml" value="0.12708333333333333" />
+        <entry key="..\:/BESE 24/FYP/FYP ScaNet/app/src/main/res/layout/activity_home.xml" value="0.12708333333333333" />
+        <entry key="..\:/BESE 24/FYP/FYP ScaNet/app/src/main/res/layout/activity_location.xml" value="0.12708333333333333" />
+        <entry key="..\:/BESE 24/FYP/FYP ScaNet/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/BESE 24/FYP/FYP ScaNet/app/src/main/res/layout/activity_tools.xml" value="0.12708333333333333" />
+        <entry key="..\:/BESE 24/FYP/FYP ScaNet/app/src/main/res/menu/menu_navigation.xml" value="0.1" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable-v24/custom_button.xml" value="0.1" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable-v24/customborder.xml" value="0.15416666666666667" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable-v24/dialog_bg.xml" value="0.1" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable-v24/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable-v24/ic_baseline_speed_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable-v24/ic_wifi.xml" value="0.1" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable-v24/selector.xml" value="0.1" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable/box.xml" value="0.26614583333333336" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable/ic_traceroute.xml" value="0.1" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable/popupbackground.xml" value="0.1" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/drawable/progress_bar.xml" value="0.26614583333333336" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_account.xml" value="0.12158054711246201" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_device_details.xml" value="0.264" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_device_list.xml" value="0.12708333333333333" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_find_open_ports.xml" value="0.14270833333333333" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_home.xml" value="0.4" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_location.xml" value="0.12708333333333333" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_main.xml" value="0.12708333333333333" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_ping.xml" value="0.14635416666666667" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_popup.xml" value="0.176" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_pre_op.xml" value="0.14270833333333333" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_pre_ping.xml" value="0.14635416666666667" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_pre_traceroute.xml" value="0.14270833333333333" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_speedtest.xml" value="0.12708333333333333" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_tools.xml" value="0.14635416666666667" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_traceroute.xml" value="0.14270833333333333" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_vul_result.xml" value="0.1" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_vulnerability.xml" value="0.264" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_vulprocess.xml" value="0.2223731884057971" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_wifi_scanner.xml" value="0.152" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_wifiscanner.xml" value="0.14635416666666667" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/activity_wolactivity.xml" value="0.1" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/dialog_about.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/dialog_filter.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/dialog_permissions.xml" value="0.20244565217391305" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/dialog_quit.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/dialog_settings.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/fragment_wlan_diagram_2_4ghz.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/fragment_wlan_diagram_5ghz.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/fragment_wlan_diagram_6ghz.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/fragment_wlan_list.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/refresh_indicator.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/row_item_wlan.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/layout/spinner_item.xml" value="0.1947463768115942" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/menu/actionbar_buttons.xml" value="0.25" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/menu/menu_navigation.xml" value="0.22291666666666668" />
+        <entry key="..\:/FYP ScaNet/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.14635416666666667" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

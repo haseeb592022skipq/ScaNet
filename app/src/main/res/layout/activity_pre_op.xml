@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PreOpActivity"
+    android:background="#A1CDF4"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:background="@color/blue"
+        android:gravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="1sp"
+        android:text="Open Ports"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/palanquin"
+        android:lineSpacingExtra="1sp"
+        android:text="@string/FindOpenPorts_desc"
+        android:textColor="#000000"
+        android:textSize="17sp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="10dp"
+        />
+
+    <EditText
+        android:id="@+id/FOP_ip"
+        android:layout_centerInParent="true"
+        android:hint="Enter IP or domain"
+        android:padding="15dp"
+        android:textColorHint="#000"
+        android:textStyle="italic"
+        android:background="@color/blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"
+        />
+
+    <Button
+        android:id="@+id/btn_FOP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find Open Ports"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="10dp"/>
+
+    <ScrollView
+        android:id="@+id/scrollView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:fillViewport="true">
+
+        <TextView
+            android:id="@+id/open_ports"
+            android:paddingLeft="15sp"
+            android:paddingRight="10sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            />
+    </ScrollView>
+
+</LinearLayout>

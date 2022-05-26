@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.scanet">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Scanet"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".vul_result"
+            android:exported="true" />
+        <activity
+            android:name=".DeviceDetails"
+            android:exported="true" />
+        <activity
+            android:name=".vulprocess"
+            android:exported="true" />
+        <activity
+            android:name=".Vulnerability"
+            android:exported="true" />
+        <activity
+            android:name=".WifiScannerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".speedtestActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WOLActivity"
+            android:exported="true" />
+        <activity
+            android:name=".wlanscanner.wifi_scanner"
+            android:exported="true" />
+        <activity
+            android:name=".popupActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.CustomeTheme" />
+        <activity
+            android:name=".FindOpenPortsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PreOpActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TracerouteActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PreTracerouteActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PrePingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DeviceListActivity"
+            android:exported="true" />
+        <activity
+            android:name=".toolsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".homeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".accountActivity"
+            android:exported="true" />
+        <activity
+            android:name=".location_activity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
