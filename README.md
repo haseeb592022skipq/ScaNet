@@ -43,3 +43,14 @@ It performs forward and reverse DNS resolutions to default or custom server.
 ### APIs
 - macaddress
 - ipify
+
+## How to run
+
+- Clone project in your android studio using `https://github.com/haseeb592022skipq/Scanet.git`
+
+### Pre-requisite
+
+- Android Studio
+- JAVA installed on the system
+- Emulator or mobile with android version greater than 5.0
+-
