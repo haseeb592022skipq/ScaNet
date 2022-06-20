@@ -9,11 +9,11 @@ ScaNet is an Android Network Scanning app that provides complete network details
 
 ###	Network Scanning
 Scan the current user network to which he is connected and find the all the devices that are connected to that network. It shows the following information for the founded devices
-•	IP address
-•	Mac Address
-•	Hostname
-•	Operating system
-•	Device Vendor
+-	IP address
+-	Mac Address
+-	Hostname
+-	Operating system
+-	Device Vendor
 ###	Find open ports
 Probe a server or host for open ports to determine available services and verify security policies of a network.
 ###	Wake on LAN
