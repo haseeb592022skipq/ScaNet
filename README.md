@@ -31,16 +31,15 @@ It recognizes device brand, type and model from just its MAC address.
 ###	DNS Lookup
 It performs forward and reverse DNS resolutions to default or custom server.
 
-## Helpful Links
+## Tools and Technologies 
 
-- [aws-lambda module](https://docs.aws.amazon.com/cdk/api/v1/docs/aws-lambda-readme.html)
-- [aws-amazon docs](https://aws.amazon.com/getting-started/hands-on/run-serverless-code/)
+### Tools
+- Android Studio
 
-## Useful commands
+### Technologies
+- JAVA
+- Kotlin
 
-- `npm run build` compile typescript to js
-- `npm run watch` watch for changes and compile
-- `npm run test` perform the jest unit tests
-- `cdk deploy` deploy this stack to your default AWS account/region
-- `cdk diff` compare deployed stack with current state
-- `cdk synth` emits the synthesized CloudFormation template
+### APIs
+- macaddress
+- ipify
