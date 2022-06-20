@@ -1,5 +1,5 @@
-# ScaNet
-## Android Network Scanner
+# ScaNet (Android Network Scanner)
+
 
 ### Description
 
